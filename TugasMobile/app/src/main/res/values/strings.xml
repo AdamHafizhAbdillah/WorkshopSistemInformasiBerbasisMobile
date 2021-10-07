@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TugasMobile</string>
+    <string-array name="kota">
+        <item>Ambon</item>
+        <item>Amurang</item>
+        <item>Bali</item>
+        <item>Bandung</item>
+        <item>Banyuwangi</item>
+        <item>Cilacap</item>
+        <item>Cirebon</item>
+        <item>Denpasar</item>
+        <item>Gorontalo</item>
+        <item>Gresik</item>
+        <item>Jakarta</item>
+        <item>Jayapura</item>
+    </string-array>
+
+    <string-array name="negara">
+        <item>Amerika</item>
+        <item>Australia</item>
+        <item>Belgia</item>
+        <item>Belanda</item>
+        <item>Indonesia</item>
+        <item>Palestina</item>
+        <item>Saudi Arabia</item>
+        <item>Singapura</item>
+        <item>Jerman</item>
+        <item>Jepang</item>
+
+    </string-array>
+</resources>
