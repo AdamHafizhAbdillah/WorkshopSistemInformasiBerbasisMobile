@@ -1,7 +1,4 @@
-WorkshopSistemInformasiBerbasisMobile
-NAMA : Adam Hafizh Abdillah 
-NIM  : E41200383 
-GOL  : A
+E41200383_Adam Hafizh Abdillah_TIF-A
 
 minggu 6
 <img width="255" alt="intent" src="https://user-images.githubusercontent.com/80688249/137156348-f8f751db-f8c0-4e15-a66b-1331cfc5b9f4.PNG">
