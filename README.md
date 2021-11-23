@@ -1,5 +1,12 @@
 E41200383_Adam Hafizh Abdillah_TIF-A
 
+minggu 7
+<img width="252" alt="sq1" src="https://user-images.githubusercontent.com/80688249/138538960-1ad0e6ff-e58e-48b0-a17d-a7a6bed0078d.PNG">
+<img width="255" alt="sq2" src="https://user-images.githubusercontent.com/80688249/138538964-0368a7bf-f03a-4d77-8e98-4d16c74adc6c.PNG">
+<img width="252" alt="sq3" src="https://user-images.githubusercontent.com/80688249/138538972-5e48a2f6-baef-46fd-935d-114b3806c597.PNG">
+<img width="251" alt="sq4" src="https://user-images.githubusercontent.com/80688249/138538982-357169c7-7665-4253-9ba2-ff2d64575e93.PNG">
+<img width="253" alt="sq5" src="https://user-images.githubusercontent.com/80688249/138538989-02a74c2b-e6ae-4463-9623-4ade9925dc6d.PNG">
+
 minggu 6
 <img width="255" alt="intent" src="https://user-images.githubusercontent.com/80688249/137156348-f8f751db-f8c0-4e15-a66b-1331cfc5b9f4.PNG">
 <img width="254" alt="intent1" src="https://user-images.githubusercontent.com/80688249/137156364-2befd736-80cc-4bb4-83bd-42033a9b6b12.PNG">
